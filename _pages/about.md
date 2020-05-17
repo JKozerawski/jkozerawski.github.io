@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jedrzej Kozerawski personal webpage"
+title: "Jedrzej Kozerawski - personal webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
