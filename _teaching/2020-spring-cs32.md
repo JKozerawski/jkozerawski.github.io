@@ -8,13 +8,4 @@ date: 2020-03-30
 location: "Santa Barbara, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Link to the website in [here](https://ucsb-cs32.github.io/s20/)
