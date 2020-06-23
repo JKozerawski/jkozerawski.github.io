@@ -8,4 +8,4 @@ date: 2020-04-13
 location: "Stanford, United States"
 ---
 
-Link to the website: https://compedu.stanford.edu/codeinplace/
+Link to the website in [here](https://compedu.stanford.edu/codeinplace/)
