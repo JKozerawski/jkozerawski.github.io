@@ -1,6 +1,6 @@
 ---
-title: "BLT: Balancing Long-Tailed Datasets with Adversarially-Perturbed Images"
-excerpt: "Studying problem of real world long-tail datasets with a focus on increasing the accuracy among tail categories."
+title: "Long-tailed image recognition"
+excerpt: "BLT: Balancing Long-Tailed Datasets with Adversarially-Perturbed Images.
 <br/><img src='/images/BLT.png'>"
 collection: research
 ---
