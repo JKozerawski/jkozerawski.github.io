@@ -7,3 +7,5 @@ venue: "University of California Santa Barbara, Summer Sessions"
 date: 2020-06-22
 location: "Santa Barbara, United States"
 ---
+
+Link to the lab activities [here](https://github.com/JKozerawski/SRA-2020)
